@@ -9,7 +9,7 @@ export default defineConfig(({ mode }) => {
         port: 3000,
         host: '0.0.0.0',
       },
-      base: '/receitas-de-casa-e-coracao2/',
+      base: '/receitas-de-casa-e-coracao/',
       plugins: [react()],
       resolve: {
         alias: {
