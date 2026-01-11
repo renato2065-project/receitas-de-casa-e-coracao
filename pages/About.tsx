@@ -20,7 +20,7 @@ const About: React.FC = () => {
 
           <h2>De Onde Vem Meu Amor Pela Cozinha</h2>
           <p>
-            Sou esposa, mãe de três filhos incríveis e apaixonada por tudo que envolve cozinha. Minha jornada começou há muitos anos, observando minha avó transformarem ingredientes simples em momentos inesquecíveis à mesa.
+            Sou esposa, mãe de três filhos incríveis e apaixonada por tudo que envolve cozinha. Minha jornada começou há muitos anos, observando minha avó transformar ingredientes simples em momentos inesquecíveis à mesa.
           </p>
           <p>
             Lembro-me de estar ao lado da minha avó, vendo suas mãos sábias amassarem a massa do pão caseiro. Ela me ensinava sem pressa, sem pressa nenhuma.
